@@ -1,1 +1,0 @@
-print('staus_1')
