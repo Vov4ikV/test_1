@@ -765,3 +765,6 @@ a44e379 second commit
 04cf95d first commit
 
 t.student@1004-10 MINGW64 ~/desktop/git_test (master)
+
+
+t.student@1004-10 MINGW64 ~/desktop/git_test (master)
