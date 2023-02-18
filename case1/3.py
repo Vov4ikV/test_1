@@ -1,0 +1,1 @@
+print('staus_3')
